@@ -22,4 +22,4 @@ A detailed article based upon the learnings of this course can be found here: ht
 
 
 
-Learning repository: 
+Learning repository: https://github.com/mishra-parimal09/Power-BI-Masterclass-from-Scratch-in-60-minutes-2020/
